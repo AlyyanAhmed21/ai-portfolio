@@ -1,0 +1,25 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+ollama
+requests
+
+# For Google Drive API
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# For processing documents (LangChain)
+langchain
+langchain-community
+pypdf # To read PDF files
+
+# For vector storage and similarity search
+faiss-cpu
+langchain-ollama
+
+# For better PDF parsing
+pymupdf
+
+# For GitHub API
+PyGithub

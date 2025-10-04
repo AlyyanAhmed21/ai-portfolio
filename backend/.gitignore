@@ -1,0 +1,8 @@
+# Python gitignore content
+__pycache__/
+*.pyc
+.env
+venv/
+data/
+# Secret credentials
+google_credentials.json
